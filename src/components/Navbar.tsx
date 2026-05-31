@@ -22,7 +22,7 @@ export function Navbar() {
     >
       <div className="container mx-auto px-4 max-w-7xl flex items-center justify-between">
         <a href="#" className="flex items-center gap-2.5 group">
-          <img src="/logo.png" alt="Sri Ram Energy Logo" className="w-[55px] h-[54px] object-contain" />
+          <img src="logo.png" alt="Sri Ram Energy Logo" className="w-[55px] h-[54px] object-contain" />
           <div className="flex flex-col">
             <span className="font-bold text-[28px] bg-white text-left leading-tight tracking-tight text-brand-green-600">
               Sri Ram Energy

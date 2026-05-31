@@ -8,7 +8,7 @@ export function Footer() {
           
           <div className="lg:col-span-1">
             <a href="#" className="flex items-center gap-2.5 mb-6 opacity-90 hover:opacity-100 transition-opacity">
-              <img src="/logo.png" alt="Sri Ram Energy Logo" className="h-10 w-auto object-contain" />
+              <img src="logo.png" alt="Sri Ram Energy Logo" className="h-10 w-auto object-contain" />
               <div className="flex flex-col">
                 <span className="font-bold text-xl tracking-tight leading-tight">Sri Ram Energy</span>
                 <span className="text-[10px] font-semibold tracking-widest text-brand-green-400 uppercase">Solar EPC Odisha</span>
